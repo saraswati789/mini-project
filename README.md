@@ -1,0 +1,2 @@
+# mini-project
+plagiarism detector
